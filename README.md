@@ -1,0 +1,1 @@
+Jupyter Extension for logging the position and size of cells.
