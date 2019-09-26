@@ -1,9 +1,0 @@
-Type: Jupyter Notebook Extension
-Compatibility: 3.x, 4.x, 5.x, 6.x
-Name: Cell Logger
-Main: main.js
-Link: README.md
-Description: |
-  Loggs the position off all cells
-Parameters:
-- none
